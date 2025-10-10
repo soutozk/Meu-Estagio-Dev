@@ -10,16 +10,18 @@
 
 ### 2. Correção e emissão de diplomas via XML
 
-📌 **Detalhes Técnicos / Observações:**  
-Realizei a análise de 21 diplomas e separei aqueles que precisavam de correção para serem ajustados na sexta-feira, dia **10/10/2025**.
+📌 **Detalhes Técnicos / Observações:**
+
+> Realizei a análise de 21 diplomas e separei aqueles que precisavam de correção para serem ajustados na sexta-feira, dia **10/10/2025**.
 
 ---
 
 ### 3. Suporte ao servidor de câmeras da instituição
 
-📌 **Detalhes Técnicos / Observações:**  
-Foi-me solicitado suporte, pois o monitor do servidor das câmeras da instituição não estava ligando.  
-Prestei o suporte necessário e solucionei o problema relatado.
+📌 **Detalhes Técnicos / Observações:**
+
+> Foi-me solicitado suporte, pois o monitor do servidor das câmeras da instituição não estava ligando.  
+> Prestei o suporte necessário e solucionei o problema relatado.
 
 ---
 
@@ -34,5 +36,6 @@ Prestei o suporte necessário e solucionei o problema relatado.
 
 ### 4. Criação do protótipo do sistema de avaliação de atendimento
 
-📌 **Detalhes Técnicos / Observações:**  
-Realizei o protótipo do sistema utilizando a plataforma **Figma**, aplicando técnicas de **UI e UX Design** para alcançar um layout **moderno, intuitivo e funcional**.
+📌 **Detalhes Técnicos / Observações:**
+
+> Realizei o protótipo do sistema utilizando a plataforma **Figma**, aplicando técnicas de **UI e UX Design** para alcançar um layout **moderno, intuitivo e funcional**.
