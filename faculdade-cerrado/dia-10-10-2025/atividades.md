@@ -1,6 +1,3 @@
-Claro! Aqui está o texto corrigido no **mesmo formato de código Markdown** que você enviou:
-
-```markdown
 # 📅 Dia 10/10/2025 – Sexta-feira
 
 ## 🧩 Atividades Realizadas
@@ -59,9 +56,8 @@ _(sem observações registradas)_
 > Realizei a emissão de três dos **XMLs** corrigidos anteriormente. Dois foram repassados para a administração, pois tratavam-se de erros para os quais eu não possuo autonomia para correção.
 
 > _XMLs repassados para a administração:_
->
-> - Laercio Aparecido
-> - Everson Kohatsu
+> Laercio Aparecido
+> Everson Kohatsu
 
 ---
 
@@ -76,4 +72,3 @@ _(sem observações registradas)_
 
 📌 **Detalhes Técnicos / Observações:**
 _(sem observações registradas)_
-```
