@@ -5,14 +5,16 @@
 ### 1. Montagem de projetores nas salas 02, 07 e 08
 
 📌 **Detalhes Técnicos / Observações:**
-Realizei a instalação dos projetores solicitados nas salas correspondentes aos professores do dia 10/09/2025.
+
+> Realizei a instalação dos projetores solicitados nas salas correspondentes aos professores do dia 10/09/2025.
 
 ---
 
 ### 2. Manutenção do sistema de atendimento por senha
 
-📌 **Detalhes Técnicos / Observações:**  
-Realizei a manutenção de um bug na emissão dos tickets de senha. Aproveitei para gerar um relatório da impressora, visando futuras manutenções.
+📌 **Detalhes Técnicos / Observações:**
+
+> Realizei a manutenção de um bug na emissão dos tickets de senha. Aproveitei para gerar um relatório da impressora, visando futuras manutenções.
 
 ---
 
@@ -59,16 +61,22 @@ _(sem observações registradas)_
 > Laercio Aparecido
 > Everson Kohatsu
 
+> _XMLs faltantes para serem feitos dia 13/09/25:_
+> Djane
+> Ednaldo Almeida
+
 ---
 
-### 8.
+### 8.Download de um video para serimonia do jaleco à pedido da coodernadora Fátima
 
 📌 **Detalhes Técnicos / Observações:**
-_(sem observações registradas)_
+
+> Video Salvo em um pendrive
 
 ---
 
 ### 9. Hospedagem do banco de dados na HostGator
 
 📌 **Detalhes Técnicos / Observações:**
-_(sem observações registradas)_
+
+> Hospedagem feita com sucesso com auxilio do Valdiney
