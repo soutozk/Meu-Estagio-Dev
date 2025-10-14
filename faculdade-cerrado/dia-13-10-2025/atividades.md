@@ -40,6 +40,8 @@
 >
 > - Remoção de bugs na _navbar_
 > - Correção de erros apresentados no _dropdown_ da _navbar_
+> - Arrumar rotas do deploy do site atraves do .htaccess
+> - Add do titulo do site e do favicon.ico
 
 > **Página de Ouvidoria:**
 >
@@ -72,10 +74,6 @@
 ### 6. Desenvolvimento do site da Faculdade Cerrado
 
 📌 **Detalhes Técnicos / Observações:**
-
-> - Arrumar rotas do deploy do site atraves do .htaccess
-> - Add do titulo do site e do favicon.ico
-> -
 
 ---
 
