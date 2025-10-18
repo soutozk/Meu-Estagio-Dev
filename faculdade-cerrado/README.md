@@ -10,3 +10,6 @@ Relatório diário das atividades realizadas durante o estágio na _Faculdade Ce
 - [10/09/2025](./dia-10-09-2025/atividades.md)
 - [13/09/2025](./dia-13-09-2025/atividades.md)
 - [14/09/2025](./dia-14-09-2025/atividades.md)
+- [15/09/2025](./dia-15-09-2025/atividades.md)
+- [16/09/2025](./dia-16-09-2025/atividades.md)
+- [17/09/2025](./dia-17-09-2025/atividades.md)
